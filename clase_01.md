@@ -60,6 +60,7 @@ Dibuja una línea entre dos puntos.
 ```javascript
 function draw() {
   background(220);
+  //line(x1, y1, x2, y2)
   line(50, 50, 350, 350); // Línea diagonal
 }
 ```
