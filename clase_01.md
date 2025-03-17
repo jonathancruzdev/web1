@@ -1,5 +1,5 @@
 
-# Introducción a JavaScript y p5.js
+# Introducción a  p5.js
 
 ## 📌 Funciones setup() y draw()
 Estas funciones son esenciales en p5.js. `setup()` se ejecuta una sola vez al inicio, mientras que `draw()` se ejecuta en un bucle.
